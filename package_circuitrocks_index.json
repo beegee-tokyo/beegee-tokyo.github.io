@@ -77,17 +77,17 @@
       "help": {
         "online": "https://learn.circuit.rocks"
       },
-      "maintainer": "CircuitRocks",
+      "maintainer": "Circuitrocks",
       "platforms": [
         {
           "boards": [
             {
-              "name": "CircuitRocks Alora ISP4520 Feather"
+              "name": "Circuitrocks Alora ISP4520 Feather"
             }
           ],
           "architecture": "nrf52",
-          "name": "CircuitRocks ISP4520",
-          "category": "CircuitRocks",
+          "name": "Circuitrocks ISP4520",
+          "category": "Circuitrocks",
           "version": "0.14.1",
           "archiveFileName": "Adafruit_nRF52_Arduino-0.14.1.tar.gz",
           "checksum": "SHA-256:55AAFD903AC1CCA67639901F4C5DE16C9AD74E100CFC07EB762DE704ABC20ACB",
