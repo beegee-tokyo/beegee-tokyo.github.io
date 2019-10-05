@@ -119,13 +119,13 @@
           "name": "Circuitrocks ISP4520",
           "category": "Circuitrocks",
           "version": "0.14.2",
-          "archiveFileName": "Adafruit_nRF52_Arduino-0.14.2.tar.gz",
-          "checksum": "SHA-256:C3A82248E7468A9728B26B93754194F4B8CAB25E559ADF8BF4DE8CFA9D5B940F",
-          "size": "18816888",
+          "archiveFileName": "Circuitrocks_ISP4520_Arduino-0.14.2.tar.gz",
+          "checksum": "SHA-256:0A3C8E0EB218D4D3821DCC14245B573C37524EB51C07267E6194422D25765342",
+          "size": "16867545",
           "help": {
             "online": "https://learn.circuit.rocks"
           },
-          "url": "https://beegee-tokyo.github.io/Adafruit_nRF52_Arduino-0.14.2.tar.gz",
+          "url": "https://beegee-tokyo.github.io/Circuitrocks_ISP4520_Arduino-0.14.2.tar.gz",
           "toolsDependencies": [
            {
               "packager": "arduino",
